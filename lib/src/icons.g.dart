@@ -17,6 +17,10 @@ enum HeroIcons {
   adjustmentsVertical._('adjustments-vertical',
       defaultSemanticLabel: "Adjustments vertical icon"),
 
+  /// Airplane outline icon
+  airplaneOutline._('airplane-outline',
+      defaultSemanticLabel: "Airplane outline icon"),
+
   /// Archive box arrow down icon
   archiveBoxArrowDown._('archive-box-arrow-down',
       defaultSemanticLabel: "Archive box arrow down icon"),
@@ -59,9 +63,17 @@ enum HeroIcons {
   arrowLeftCircle._('arrow-left-circle',
       defaultSemanticLabel: "Arrow left circle icon"),
 
+  /// Arrow left end on rectangle icon
+  arrowLeftEndOnRectangle._('arrow-left-end-on-rectangle',
+      defaultSemanticLabel: "Arrow left end on rectangle icon"),
+
   /// Arrow left on rectangle icon
   arrowLeftOnRectangle._('arrow-left-on-rectangle',
       defaultSemanticLabel: "Arrow left on rectangle icon"),
+
+  /// Arrow left start on rectangle icon
+  arrowLeftStartOnRectangle._('arrow-left-start-on-rectangle',
+      defaultSemanticLabel: "Arrow left start on rectangle icon"),
 
   /// Arrow left icon
   arrowLeft._('arrow-left', defaultSemanticLabel: "Arrow left icon"),
@@ -92,9 +104,17 @@ enum HeroIcons {
   arrowRightCircle._('arrow-right-circle',
       defaultSemanticLabel: "Arrow right circle icon"),
 
+  /// Arrow right end on rectangle icon
+  arrowRightEndOnRectangle._('arrow-right-end-on-rectangle',
+      defaultSemanticLabel: "Arrow right end on rectangle icon"),
+
   /// Arrow right on rectangle icon
   arrowRightOnRectangle._('arrow-right-on-rectangle',
       defaultSemanticLabel: "Arrow right on rectangle icon"),
+
+  /// Arrow right start on rectangle icon
+  arrowRightStartOnRectangle._('arrow-right-start-on-rectangle',
+      defaultSemanticLabel: "Arrow right start on rectangle icon"),
 
   /// Arrow right icon
   arrowRight._('arrow-right', defaultSemanticLabel: "Arrow right icon"),
@@ -244,6 +264,13 @@ enum HeroIcons {
   /// Bell icon
   bell._('bell', defaultSemanticLabel: "Bell icon"),
 
+  /// Bicycle outline icon
+  bicycleOutline._('bicycle-outline',
+      defaultSemanticLabel: "Bicycle outline icon"),
+
+  /// Boat outline icon
+  boatOutline._('boat-outline', defaultSemanticLabel: "Boat outline icon"),
+
   /// Bolt slash icon
   boltSlash._('bolt-slash', defaultSemanticLabel: "Bolt slash icon"),
 
@@ -300,6 +327,10 @@ enum HeroIcons {
 
   /// Camera icon
   camera._('camera', defaultSemanticLabel: "Camera icon"),
+
+  /// Car sport outline icon
+  carSportOutline._('car-sport-outline',
+      defaultSemanticLabel: "Car sport outline icon"),
 
   /// Chart bar square icon
   chartBarSquare._('chart-bar-square',
@@ -423,6 +454,9 @@ enum HeroIcons {
 
   /// Cog 8 tooth icon
   cog8Tooth._('cog-8-tooth', defaultSemanticLabel: "Cog 8 tooth icon"),
+
+  /// Cog outline icon
+  cogOutline._('cog-outline', defaultSemanticLabel: "Cog outline icon"),
 
   /// Cog icon
   cog._('cog', defaultSemanticLabel: "Cog icon"),
@@ -589,6 +623,10 @@ enum HeroIcons {
 
   /// Folder icon
   folder._('folder', defaultSemanticLabel: "Folder icon"),
+
+  /// Footsteps outline icon
+  footstepsOutline._('footsteps-outline',
+      defaultSemanticLabel: "Footsteps outline icon"),
 
   /// Forward icon
   forward._('forward', defaultSemanticLabel: "Forward icon"),
@@ -921,6 +959,9 @@ enum HeroIcons {
 
   /// Ticket icon
   ticket._('ticket', defaultSemanticLabel: "Ticket icon"),
+
+  /// Train outline icon
+  trainOutline._('train-outline', defaultSemanticLabel: "Train outline icon"),
 
   /// Trash icon
   trash._('trash', defaultSemanticLabel: "Trash icon"),

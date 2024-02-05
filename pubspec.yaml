@@ -10,7 +10,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
   flutter_svg: ^2.0.7
   path: ^1.8.3
 

@@ -11,7 +11,7 @@ images.
 
   This package was last updated to use [heroicons](https://heroicons.com/)
   version [`2.1.1`](https://github.com/tailwindlabs/heroicons/releases/tag/v2.1.1)
-  (on `February 5th, 2024`). If there's a newer version of HeroIcons available, please
+  (on `February 6th, 2024`). If there's a newer version of HeroIcons available, please
   create an issue or pull request.
 
 <!-- end:heroicons_version -->
